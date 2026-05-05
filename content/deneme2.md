@@ -1,6 +1,9 @@
 ---
 title: Markdown Deneme
-tags: [deneme, obsidian, quartz]
+tags:
+  - deneme
+  - obsidian
+  - quartz
 ---
 
 # 🚀 Markdown Deneme (Obsidian + Quartz)
