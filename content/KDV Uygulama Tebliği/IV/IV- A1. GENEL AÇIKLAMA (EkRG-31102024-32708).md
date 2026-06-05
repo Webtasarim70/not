@@ -1,0 +1,19 @@
+## A1. GENEL AÇIKLAMA (Ek:RG-31/10/2024-32708)**
+
+3065 sayılı Kanunun (29/1) maddesine göre, mükelleflerin yaptıkları vergiye tabi işlemler üzerinden hesaplanan KDV’den, kendilerine yapılan teslim ve hizmetler ile ithal edilen mal ve hizmetlere ilişkin ödenen KDV’nin indirimi mümkündür. Kanunun (29/2) maddesine göre, vergilendirme dönemleri itibarıyla yapılan bu indirim sonucu hesaplanan KDV’nin, indirim KDV’den fazla olması halinde aradaki fark Hazineye ödenmekte, indirim KDV’nin hesaplanan KDV’den fazla olması halinde ise aradaki fark sonraki dönemde indirim konusu yapılmak üzere devretmektedir.
+
+Ancak, 3065 sayılı Kanunun 32 nci maddesine göre, Kanunun 11, 13, 14, 15 inci maddeleri ile 17 nci maddenin (4) numaralı fıkrasının (s) bendi ve Kanunun indirim ve iade hakkı tanınan geçici maddeleri ile 3065 sayılı Kanunun (29/2) maddesi kapsamındaki indirimli orana tabi işlemler uyarınca, mükelleflerin vergiye tabi işlemleri üzerinden hesaplanan KDV’nin indirilecek KDV’den az olması halinde indirim yoluyla telafi edilemeyen KDV’nin, Bakanlığımızca tespit edilen usul ve esaslara göre iade edilmesi mümkün bulunmaktadır. Ayrıca, 3065 sayılı Kanunun (9/1) maddesindeki yetki uyarınca kısmi tevkifata tabi işlemlere ilişkin tevkif edilen KDV’nin satıcılara iade edilmesi mümkündür. İade hakkı doğuran bir işlem bulunmaması halinde yüklenilen ve sonraki döneme devreden KDV’nin iadesi söz konusu değildir.
+
+28/7/2024 tarihli ve 7524 sayılı Kanunun 21 inci maddesiyle 3065 sayılı Kanunun 36 ncı maddesinde yapılan değişiklik ile iade hakkı doğuran işlemlerden kaynaklanan iade taleplerinin vergi inceleme raporu sonucuna göre yerine getirilmesinin esas olduğu hüküm altına alınmıştır.
+
+Buna göre, mükelleflerin KDV iade hakkı doğuran işlemlerden kaynaklanan iade taleplerinin vergi inceleme raporu sonucuna göre yerine getirilmesi gerekmektedir.
+
+Vergi inceleme raporu ifadesi, 213 sayılı Vergi Usul Kanununun 135 inci maddesinde sayılan vergi incelemesine yetkili olanlarca düzenlenmiş raporu ifade eder.
+
+Öte yandan, 3065 sayılı Kanunun 36 ncı maddesinde Bakanlığımızın; mükellefiyet süresi, çalışan sayısı, aktif ve özsermaye büyüklüğü, ödenen vergi tutarı, vergisel ödevlerin zamanında yerine getirilip getirilmediği, sahte veya muhteviyatı itibarıyla yanıltıcı belge düzenleme veya kullanma yönünde olumsuz rapor ya da tespit bulunup bulunmadığı gibi kriterleri esas alarak mükelleflerin vergisel uyum seviyeleri ve bu uyum seviyelerine göre farklı iade yöntemleri tespit etmeye, iade alacağının mahsup edileceği vergi borçları ile iadeye ilişkin diğer usul ve esasları belirlemeye yetkili olduğu hükme bağlanmıştır.
+
+3065 sayılı Kanunun 36 ncı maddesinin Bakanlığımıza verdiği yetki çerçevesinde mükelleflerin KDV iade taleplerinin, Tebliğin ilgili bölümlerinde iade hakkı doğuran işlem türleri itibarıyla iade için belirlenen usul ve esaslara göre yerine getirilmesi uygun görülmüştür.
+
+Tebliğin ilgili bölümlerinde iade hakkı doğuran işlem türleri itibarıyla iade için belirlenen usul ve esaslar çerçevesinde mükelleflerin KDV iade taleplerinin teminat veya YMM raporu karşılığı yerine getirilmesi uygun görülen işlemlere ilişkin yapılan kontrollerde tespit edilen eksiklik veya olumsuzlukların verilen sürede mevzuata uygun şekilde giderilmesi gerekir. Eksiklik veya olumsuzlukların verilen sürede giderilememesi halinde iade talebi 15 gün içinde incelemeye sevk edilir ve düzenlenen vergi inceleme raporu sonucuna göre işlem yapılır. Bu kapsamda incelemeye sevk edilen iade talepleri, iadesi talep edilen tutarın %150’si oranında banka teminat mektubu verilmesi halinde yerine getirilir, teminat vergi inceleme raporu sonucuna göre çözülür.
+
+Teminat karşılığı iadelerde, teminatın YMM raporu ile çözülebileceği hallerde, süresi içinde YMM raporu ibraz edilmemesi veya ibraz edilmeyeceğinin belirtilmesi halinde, teminat vergi inceleme raporu sonucuna göre çözülür.

@@ -1,0 +1,11 @@
+# VI. USUL HÜKÜMLERİ VE ÇEŞİTLİ HUSUSLAR
+
+[[VI- A.USUL HÜKÜMLERİ]]
+
+[[VI- B. ÇEŞİTLİ HUSUSLAR]]
+
+[[VI- C. YÜRÜRLÜKTEN KALDIRILAN TEBLİĞLER]]
+
+[[Ç. GEÇİCİ HÜKÜMLER559]]
+
+[[VI- D. YÜRÜRLÜK]]
