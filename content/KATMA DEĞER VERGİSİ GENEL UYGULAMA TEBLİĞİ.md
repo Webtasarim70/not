@@ -1,6 +1,9 @@
 
 Bu Tebliğin konusunu, 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi (KDV) Kanununun[1](https://www.mevzuat.gov.tr/mevzuatmetin/yonetmelik/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19631&MevzuatTertip=5#_ftn1) ilgili maddeleri ile 13/2/2011 tarihli ve 6111 sayılı Kanunun[2](https://www.mevzuat.gov.tr/mevzuatmetin/yonetmelik/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19631&MevzuatTertip=5#_ftn2) geçici 16 ncı ve 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun[3](https://www.mevzuat.gov.tr/mevzuatmetin/yonetmelik/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19631&MevzuatTertip=5#_ftn3) 120 nci maddelerinin Maliye Bakanlığına verdiği yetkiler çerçevesinde bu ve diğer Kanunlarda yapılan düzenlemeler ile 3065 sayılı Kanunun uygulanmasına ilişkin açıklamalar oluşturmaktadır.
 
+https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19631&MevzuatTertip=5
+
+pdf: https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_TEBLIGLER/UNIVERSAL/2026/kdv_genteb.pdf
 # I- MÜKELLEFİYET
 
 ## A. VERGİNİN KONUSU
