@@ -1,26 +1,9 @@
 ---
 title: Hoşgeldiniz
 ---
-## KDV Uygulama Tebliği Notları
+## 🚀 KDV Uygulama Tebliği Notları
 
-[[KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİ]] tek parça halinde ulaşabilirsiniz
+- tek parça halinde ulaşmak için [[KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİ]]
+- tebliğin içeriğinde gezinmek için [[0. KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİ 1]]
 
-tebliğin içeriğinde gezinmek için tıklayın:
-	
-	[[0. KATMA DEĞER VERGİSİ GENEL UYGULAMA TEBLİĞİ 1]]
-	
-	[[I- MÜKELLEFİYET]]
-	
-	[[II. İSTİSNALAR]]
-	
-	[[III. MATRAH, NİSPET VE İNDİRİM]]
-	
-	[[IV. KDV İADESİNDE ORTAK HUSUSLAR]]
-	
-	[[V. VERGİNİN TARHI VE ÖDENMESİ]]
-	
-	[[VI. USUL HÜKÜMLERİ VE ÇEŞİTLİ HUSUSLAR]]
-	
-	[[VII. EKLER DİZİNİ]]
 
-<hr>
